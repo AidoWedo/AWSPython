@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# Get AWS Creds for local machine using Boto3
-# Install awscli first via pip install awscli and configure
 import json
 import boto3
 
